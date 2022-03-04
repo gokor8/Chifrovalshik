@@ -1,4 +1,5 @@
 # Chifrovalshik
 This program encrypts and decrypts file with your text by password
 ------
-The program is made for practical work of my collage
+The program is made for practical work of my collage.
+It writed on state machine pattern
